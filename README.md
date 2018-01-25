@@ -1,2 +1,1 @@
-# javaScriptで実装したブロック崩し
-
+# JavaScriptで実装したブロック崩し
